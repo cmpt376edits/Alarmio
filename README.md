@@ -1,4 +1,4 @@
-Alarmio is a simple alarm clock that implements many useful features while following regular design standards to ensure that it is quick and intuitive to use. APKs can be downloaded [here](/../../releases). The alpha testing community (linked to Google Play) is [here](https://plus.google.com/communities/116326840674933604304).
+Alarmio is a simple alarm clock that implements many useful features and follows regular design standards, resulting in a quick and intuitive user experience. APKs can be downloaded [here](/../../releases). The alpha testing community (linked to Google Play) is [here](https://plus.google.com/communities/116326840674933604304).
 
 ## Screenshots
 
